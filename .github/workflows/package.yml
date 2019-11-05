@@ -1,4 +1,4 @@
-name: Test libzengithub package on main platforms
+name: Test libzengithub package on main platforms.
 on: [push]
 jobs:
   test:
